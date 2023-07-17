@@ -1,34 +1,47 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CYBER.Gen&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+</div>
+
+
+<h1 align="center">CYBER Gen BOT PRIVACY POLICY</h1>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CYBER.Gen&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
+  <em>By using the bot, you agree to our privacy policy.</em>
 </p>
 
-<img align="left" width="500" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-1/1109076213596692603.png">
+<hr>
 
-# CYBER Gen BOT PRIVACY POLICY
+<div align="center">
 
-- - - 
+  <h3>:lock: WHAT DATA DO WE STORE?</h3>
 
-- - - 
+  <p>
+    We take your privacy seriously and do not collect any personal information such as passwords or credentials. The data we store includes User IDs, Server IDs, Channel IDs, and some Role IDs. Our bot strictly adheres to the Discord ToS and discourages any activity that violates it.
+  </p>
 
-# By using the bot you agree to our privacy policy.
+  <h3>:mag_right: HOW DO WE USE THIS DATA?</h3>
 
-### WHAT DATA DO WE STORE?
+  <p>
+    The data we collect is used solely for the purpose of enhancing your experience with our bot. User IDs help identify users, Channel IDs enable targeted messaging, and Server IDs assist in identifying servers. Role IDs are utilized for the Autorole feature. Rest assured, we never request any personal data from our users.
+  </p>
 
-We do not collect any personal information relating to your account like passwords or any other credentials. The data we collect includes the User IDs, Server IDs, Channel IDs, and some Role IDs. The bot never requests any personal data from users, and any act that breaks the ToS of Discord is discouraged by us!
+  <h3>:hourglass_flowing_sand: HOW LONG DO WE STORE YOUR DATA?</h3>
 
-### HOW DO WE USE THIS DATA?
+  <p>
+    Your data is stored only as long as the bot remains in your server. Once the bot is removed or kicked, all associated data is immediately deleted and becomes inaccessible to anyone. We prioritize data protection and follow strict deletion practices.
+  </p>
 
-The data is used for the proper functioning of the Warning System, Logging activities, and Autorole features of our Bot. User IDs are used to identify the users, Channel IDs are used to send messages to the designated channels, and Server IDs are used to identify the Servers. Role IDs are used for the Autorole feature.
+  <h3>:handshake: WHO DO WE SHARE THE DATA WITH?</h3>
 
-### HOW LONG DO WE STORE YOUR DATA?
+  <p>
+    We highly value your privacy and never share your data with any third parties, except for [MongoDB Inc](https://mongodb.com), which is a trusted database company. The data for our bot is securely stored on MongoDB servers, and according to MongoDB Inc, the data is solely accessible by the bot developer.
+  </p>
 
-The data is stored as long as the bot is in your Server. As soon as the bot is kicked or removed from the Server, the data is deleted and is no longer accessible to anyone.
+  <h3>:mailbox_with_mail: GOT CONCERNS OR QUERIES?</h3>
 
-### WHO DO WE SHARE THE DATA WITH?
+  <p>
 
-We never share your data with anyone except for [MongoDB Inc](https://mongodb.com), which is a Database Company. All the data for our Bot is stored on MongoDB Servers, and according to MongoDB Inc., the data is only accessible by Bot Dev.
+If you have any concerns, queries, or would like your data to be removed, please feel free to contact [LUCAS](https://discord.com/users/577600234734092288) directly on our [Support Server](https://discord.gg/4tHdFJxPhb)!
 
-### GOT CONCERNS OR QUERIES?
-
-If you have any concerns or queries relating to our privacy policy or our bot, or if you want your data to be removed, you can contact [LUCAS](https://discord.com/users/577600234734092288) directly on my [Support Server](https://discord.gg/4tHdFJxPhb)!
-
+  <img align="left" width="500" style="margin: 0 10px 0 0;" alt="Bot Widget" src="https://discord.c99.nl/widget/theme-1/1109076213596692603.png">
+</div>                                                                                                                                            
