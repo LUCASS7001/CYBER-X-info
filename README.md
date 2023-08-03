@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CYBER.Gen&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CYBER.X&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
 </div>
 
 
-<h1 align="center">CYBER Gen BOT PRIVACY POLICY</h1>
+<h1 align="center">CYBER X BOT PRIVACY POLICY</h1>
 
 <p align="center">
   <em>By using the bot, you agree to our privacy policy.</em>
