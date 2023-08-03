@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">CYBER X BOT PRIVACY POLICY</h1>
+<h1 align="center">CYBER X BOT Privacy Policy</h1>
 
 <p align="center">
   <em>By using the bot, you agree to our privacy policy.</em>
