@@ -1,6 +1,6 @@
 # ACCEPTANCE OF TERMS
 
-By using the Natsume bot music, you agree to be bound by these Terms of Service, as well as any additional terms, policies, or guidelines that may be posted by the bot developer or owner. If you do not agree to these terms, you should not use the bot.
+By using the CYBER X bot, you agree to be bound by these Terms of Service, as well as any additional terms, policies, or guidelines that may be posted by the bot developer or owner. If you do not agree to these terms, you should not use the bot.
 
 # USER CONDUCT
 
