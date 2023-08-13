@@ -1,4 +1,4 @@
-# <samp>DiscordJS-V14-Bot-Template</samp> v2
+# <samp>CYBER X INFO </samp>
 
 [Privacy](https://github.com/LUCASS7001/CYBER-X/blob/main/Privacy%20Policy.md)
 [Terms](https://github.com/LUCASS7001/CYBER-X/blob/main/TERMS%20OF%20SERVICE.md)
@@ -14,5 +14,5 @@
 
 ## Commands, events, and components structure
 
-> **Note**
-> This handler uses **CommonJS** modules system.
+> **Fun**
+> COMMANDS
