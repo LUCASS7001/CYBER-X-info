@@ -1,6 +1,10 @@
 # <samp>CYBER X INFO </samp>
 
+## Commands
+
 [Privacy](https://github.com/LUCASS7001/CYBER-X/blob/main/Privacy%20Policy.md)
+
+
 [Terms](https://github.com/LUCASS7001/CYBER-X/blob/main/TERMS%20OF%20SERVICE.md)
 
 
@@ -11,8 +15,3 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YP6PVeRSQw)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L25ZK)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Commands
-
-> **Fun**
-> commands
