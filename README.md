@@ -12,7 +12,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L25ZK)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Commands, events, and components structure
+## Commands
 
 > **Fun**
-> COMMANDS
+> commands
