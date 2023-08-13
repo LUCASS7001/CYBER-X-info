@@ -1,5 +1,23 @@
-# Read [Privacy | Terms] Of CYBER-X
+# Read [Commands | Privacy | Terms] Of CYBER-X
 
+> Fun
+> ----
+
+> General
+> ----
+
+> Misc
+> ----
+
+
+> roleplay
+> ----
+
+> setup
+> ----
+
+> Utility
+> ----
 
 > [Privacy](https://github.com/LUCASS7001/CYBER-X/blob/main/Privacy%20Policy.md)
 > ----
